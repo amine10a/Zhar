@@ -13,5 +13,5 @@ $ pkg install git
 
 
 
-$ git clone https://github.com/amine10a/Zhar
+$ git clone https://github.com/amine10a/Zhar.git
 
