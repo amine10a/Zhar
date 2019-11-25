@@ -7,11 +7,16 @@ Simple game with python.
 
 
 
-
+```
 $ pkg install git
-
-
-
-
+$ pkg inatall python
 $ git clone https://github.com/amine10a/Zhar.git
+$ cd zhar
+$ python zhar.py
+```
+
+
+
+
+
 
